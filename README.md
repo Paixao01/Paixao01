@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Paixao01/Paixao01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 💻+ 6 anos de experiências em gestão de projetos ágeis, sendo 2,5 anos e meio no desenvolvimento de software, UX e produtos digitais.
 - 📚+ de 13 anos de vivência no mundo da educação, como docente do ensino infantil à pós -graduação. São 5 anos dedicados ao ensino a distância, como tutora, professora formadora e design instrucional desenvolvendo mais de 43 projetos entre cursos online e e-books. 
 - 🎤Palestrantes e Mentora na área de negócios, tecnologia e projetos. Mentora Startup weekend e Startup Black Weekend, organizadora e mentora de startup Shark academic Uninassau. Mentora de projetos organização Fa.vela.
-- 💼 🏆 Premiada em inovação energia e água do PROTESTE 2015 e aluna destaque AWARD Academic Devry.;
+- 🏆 Premiada em inovação energia e água do PROTESTE 2015 e aluna destaque AWARD Academic Devry.;
 
 
 ## 👨‍💻 Linguagens em aprendizagens: 
@@ -43,20 +43,18 @@ Here are some ideas to get you started:
 ## 🧰 Frameworks em aprendizagens: 
 [![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
+## 🗄️ Bancos de Dados em aprendizado: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{tuanelisboa@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/tuanepaixao/)
+![Gmail Badge](https://img.shields.io/badge/-{tuanelisboa@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{tuanelisboa@gmail.com})
+[![Linkedin: Tuane](https://img.shields.io/badge/-tuanepaixao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuanepaixao/)](https://www.linkedin.com/in/tuanepaixao/)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
