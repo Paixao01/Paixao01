@@ -14,44 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Olá, eu sou {Tuane Paixão}
+
+<p align="center">
+  💻 Front- End I UX I Produto | 🌍 Apaixonado por Tecnologia e desenvolvimento de Produtos
+</p><br><br>
+
+## 💼 Perfil Profissional
+
+- 💼 Atuando como Analista de requisitos;
+- 🎓 Formada em Pós graduada em Gerenciamento de Projetos PMI [CRUZEIRO DO SUL/2022];
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas [CRUZEIRO DO SUL/2020];
+- 🎓 Formada em Engenharia elétrica [DEVERY UNIVERSY/2015];
+- 🌱 Apaixonado por Desenvolvimento de Produtos Digitais;
+- 💻 Com o objetivo de aprimorar os conhecimentos em UX I Produto Design I Full Stack com o intuito de desenvolver produto úteis, eficazes e duradouros. 
+
+## 🚀 Sobre mim
+- 💻+ 6 anos de experiências em gestão de projetos ágeis, sendo 2,5 anos e meio no desenvolvimento de software, UX e produtos digitais.
+- 📚+ de 13 anos de vivência no mundo da educação, como docente do ensino infantil à pós -graduação. São 5 anos dedicados ao ensino a distância, como tutora, professora formadora e design instrucional desenvolvendo mais de 43 projetos entre cursos online e e-books. 
+- 🎤Palestrantes e Mentora na área de negócios, tecnologia e projetos. Mentora Startup weekend e Startup Black Weekend, organizadora e mentora de startup Shark academic Uninassau. Mentora de projetos organização Fa.vela.
+- 💼 🏆 Premiada em inovação energia e água do PROTESTE 2015 e aluna destaque AWARD Academic Devry.;
+
+
+## 👨‍💻 Linguagens em aprendizagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)
+
+## 🧰 Frameworks em aprendizagens: 
+[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{tuanelisboa@gmail.com})
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/tuanepaixao/)
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# [Seu Nome]
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
-
-## 👋 Olá!
-
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
-
-## 🚀 Habilidades Técnicas
-
-- Linguagens de Programação: 
-
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
-- Dados: 
-
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
-
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
-
-## 🏆 Projetos Destacados
-
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
-
-
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
